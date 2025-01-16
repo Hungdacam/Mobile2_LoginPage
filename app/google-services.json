@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760785748009",
+    "project_id": "authentication-4bd06",
+    "storage_bucket": "authentication-4bd06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760785748009:android:d01715248ceb672e0fdc38",
+        "android_client_info": {
+          "package_name": "iuh.fit.se"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760785748009-pq442s0agl58anvfqc9csocro3hrb7rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iuh.fit.se",
+            "certificate_hash": "82be0dac7f19d88f2e2540f7d8b1a9337c0499de"
+          }
+        },
+        {
+          "client_id": "760785748009-tabkah54j0apm3oebn9a2udjmknvkq53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrHlD3Wa5j_vEoVsv9vtx-RrmeS8R4lto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760785748009-tabkah54j0apm3oebn9a2udjmknvkq53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
